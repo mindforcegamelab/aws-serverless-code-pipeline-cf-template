@@ -1,3 +1,7 @@
+# Test with deployment
+
+This is just a fork to check how to best deploy serverless on aws
+
 # aws-serverless-code-pipeline-cf-template
 [![Build Status](https://travis-ci.org/getcft/aws-serverless-code-pipeline-cf-template.svg?branch=master)](https://travis-ci.org/getcft/aws-serverless-code-pipeline-cf-template)
 
